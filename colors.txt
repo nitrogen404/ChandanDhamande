@@ -1,0 +1,5 @@
+background - #18191A
+navbar - 242526
+card - 3a3b3c
+primarytext, lines - #E4E6Eb
+secondaytext - #B0B3B8
